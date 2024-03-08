@@ -1,2 +1,8 @@
 venv/
 data/
+
+Deep Learning Course/glove.840B.300d.pkl
+Deep Learning Course/distilbert.weights.index
+Deep Learning Course/distilbert.weights.data-00000-of-00001
+Deep Learning Course/tensorflow_text-2.15.0-cp39-cp39-macosx_11_0_arm64.whl
+Deep Learning Course/archive.zip
