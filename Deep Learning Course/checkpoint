@@ -1,2 +1,0 @@
-model_checkpoint_path: "distilbert.weights"
-all_model_checkpoint_paths: "distilbert.weights"
